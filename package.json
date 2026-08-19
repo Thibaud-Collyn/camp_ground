@@ -8,7 +8,7 @@
         "dev": "nodemon src/server.js"
     },
     "author": "Thibaud Collyn",
-    "type": "commonjs",
+    "type": "module",
     "dependencies": {
         "express": "^5.2.1"
     },
